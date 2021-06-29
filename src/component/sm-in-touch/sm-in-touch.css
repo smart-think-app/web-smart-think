@@ -1,0 +1,32 @@
+.sm-in-touch-body{
+    background-color: #3b065e;
+}
+
+.sm-in-touch-title{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.sm-in-touch-item {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.sm-in-touch-item-detail {
+    margin: 10px;
+    background-color: white;
+}
+
+.sm-in-touch-item-title {
+    font-weight: 700px;
+    color: #999999 ;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.sm-in-touch-image {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

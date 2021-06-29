@@ -1,23 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
-
+import SmTopMenu from './component/sm-top-menu/sm-top-menu';
+import SmIntroduce from './component/sm-introduce/sm-introduce'
+import SmProject from './component/sm-project/sm-project'
+import SmFounder from './component/sm-founder/sm-founder';
+import SmTechStack from './component/sm-tech-stack/sm-tech-stack';
+import SmInTouch from './component/sm-in-touch/sm-in-touch';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <SmTopMenu/>
+      <SmIntroduce/>
+      <SmProject />
+      <SmFounder/>
+      <SmTechStack/>
+      <SmInTouch/>
     </div>
   );
 }

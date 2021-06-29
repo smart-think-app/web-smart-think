@@ -1,0 +1,25 @@
+.sm-project-body {
+    background-color: white;
+    padding: 2%;
+}
+
+.sm-project-text {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.sm-project-detail {
+    background-color: antiquewhite;
+}
+
+.sm-project-item-img {
+    margin-left: 30%
+}
+
+.sm-project-item-text {
+    text-align: center;
+    font-weight: bold;
+}

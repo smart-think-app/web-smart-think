@@ -1,0 +1,21 @@
+.sm-founder-body {
+    background-color: #3b065e;
+    padding: 20px;
+}
+
+.sm-founder-title{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sm-founder-name {
+    color: white;
+    font-weight: bold;
+}
+
+.sm-founder-description {
+    color: white;
+}
